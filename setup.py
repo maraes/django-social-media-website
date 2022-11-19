@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nome do projeto",
-    py_modules=["requests"],
+    py_modules=["django-social-media-website"],
     version="1.0",
     description="Robust Speech Recognition via Large-Scale Weak Supervision",
     readme="README.md",
