@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nome do projeto",
-    py_modules=["whisper"],
+    py_modules=["requests"],
     version="1.0",
     description="Robust Speech Recognition via Large-Scale Weak Supervision",
     readme="README.md",
